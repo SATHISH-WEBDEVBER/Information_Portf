@@ -1,54 +1,65 @@
-# 📌 Project Information
+![Source Code](https://img.shields.io/badge/Source_Code-Private-red)
+![Documentation](https://img.shields.io/badge/Documentation-Available-blue)
+![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+# Project Information
 
 > [!IMPORTANT]
-> This repository is intended for **project overview, documentation, and portfolio showcase purposes only**.
+> This repository is intended for project overview, documentation, and portfolio showcase purposes only.
 
 > [!WARNING]
-> The complete source code is maintained in a **private repository** and is not publicly accessible due to project confidentiality and intellectual property considerations.
+> The complete source code is maintained in a private repository and is not publicly accessible due to project confidentiality and intellectual property considerations.
 
 > [!NOTE]
-> This repository may contain project descriptions, screenshots, feature overviews, technology stacks, and implementation summaries. However, it does not include the complete application source code.
+> This repository contains project descriptions, feature overviews, screenshots, technology stack information, and implementation summaries only.
 
-## 🚀 About the Project
+---
 
-This project demonstrates my experience in designing and developing modern web applications using industry-standard technologies and best practices.
+## Overview
 
-Key areas covered include:
+This project demonstrates experience in designing and developing modern web applications using industry-standard technologies and development practices.
 
-* 🎨 Frontend Development
-* ⚙️ Backend Development
-* 🔐 Authentication & Authorization
-* 🗄️ Database Design & Management
-* 📱 Responsive User Interfaces
-* ☁️ Deployment & Production Configuration
-* 🔄 API Development & Integration
+### Key Areas
 
-## 📞 Contact Information
+* Frontend Development
+* Backend Development
+* Authentication & Authorization
+* Database Management
+* API Development & Integration
+* Responsive User Interface Design
+* Deployment & Production Configuration
 
-For any of the following:
+---
 
-* 🔍 Detailed Technical Discussions
-* 📂 Source Code Access Requests
-* 🤝 Collaboration Opportunities
-* 💼 Freelance or Full-Time Opportunities
-* 🎯 Project Demonstrations
+## Contact Information
 
-Please feel free to contact me:
+For:
 
-### 📧 Email
+* Technical Discussions
+* Source Code Access Requests
+* Project Demonstrations
+* Collaboration Opportunities
+* Professional Inquiries
 
-**[sathishms1589@email.com](mailto:sathishms1589@email.com)**
+Please feel free to contact me.
 
-### 💼 LinkedIn
+### Email
 
-**https://www.linkedin.com/in/sathishs07/**
+[sathishms1589@email.com](mailto:sathishms1589@email.com)
 
-### 🌐 Portfolio
+### LinkedIn
 
-**https://sathishmsdev.vercel.app/**
+https://www.linkedin.com/in/sathishs07/
 
-## 🙏 Thank You
+### Portfolio
 
-Thank you for visiting this repository and taking the time to review my work.
+https://sathishmsdev.vercel.app/
 
-⭐ If you find this project interesting, feel free to connect with me through LinkedIn or visit my portfolio for additional projects and information.
+---
+
+## Additional Information
+
+For more information about my experience, projects, technical skills, and professional background, please visit my portfolio website.
+
+Thank you for taking the time to review this project documentation.
